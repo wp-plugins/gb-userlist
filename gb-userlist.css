@@ -1,0 +1,66 @@
+.widgetbx .gbuserlist li {
+	border-bottom: none;
+	line-height: 12px;
+	padding: 0;
+	}
+.gbuserlist, .gbuserlist li{
+	border-bottom: none;
+	padding:0;
+}
+
+.gbuserlistimg a img {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    border: 1px solid #c4c1c0;
+}
+
+.gbuserlist-administrator a {
+	color: #ff0000;
+}
+.gbuserlist-administrator a  img {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+	border: 1px solid #ff0000;
+}
+
+.gbuserlist-editor a {
+	color: #0000ff;
+}
+.gbuserlist-editor a  img {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+	border: 1px solid #0000ff;
+}
+
+.gbuserlist-contributor a {
+	color: #cc00ff;
+}
+.gbuserlist-contributor a  img {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+	border: 1px solid #cc00ff;
+}
+
+.gbuserlist-author a {
+	color: #00ff00;
+}
+.gbuserlist-author  img {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+	border: 1px solid #00ff00;
+}
+
+.gbuserlist-subscriber a {
+	color: #cccccc;
+}
+.gbuserlist-subscriber a  img {
+    float: left;
+    margin: 2px;
+    padding: 2px;
+	border: 1px solid #cccccc;
+}
