@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GB-UserList v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-03 13:45+0100\n"
+"Last-Translator: Bourgneuf Gaëtan <gbourgneuf@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ gb-userlist
+#: gb-userlist.php:50
+msgid "GB-UserList"
+msgstr ""
+
+#@ gb-userlist
+#: gb-userlist.php:234
+msgid "Members"
+msgstr "Membres"
+
+#@ gb-userlist
+#: gb-userlist.php:98
+msgid "<p>Changes saved</p>"
+msgstr "<p>Modifications sauvegardées avec succès</p>"
+
+#@ gb-userlist
+#: gb-userlist.php:108
+msgid "GB-UserList Options"
+msgstr "Options de GB-UserList"
+
+#@ gb-userlist
+#: gb-userlist.php:115
+msgid "Nb. Members to display"
+msgstr "Nb. de membres à afficher"
+
+#@ gb-userlist
+#: gb-userlist.php:120
+msgid "Display Mode"
+msgstr "Mode d'affichage"
+
+#@ gb-userlist
+#: gb-userlist.php:140
+msgid "Avatar Size"
+msgstr "Taille de l'avatar"
+
+#@ gb-userlist
+#: gb-userlist.php:152
+msgid "Update"
+msgstr "Mettre à jour"
+
+#@ gb-userlist
+#: gb-userlist.php:124
+msgid "Recent users"
+msgstr "Utilisateurs récents"
+
+#@ gb-userlist
+#: gb-userlist.php:125
+msgid "Randomly"
+msgstr "Aléatoire"
+
+#@ gb-userlist
+#: gb-userlist.php:130
+msgid "Display Style"
+msgstr "Style d'affichage"
+
+#@ gb-userlist
+#: gb-userlist.php:134
+msgid "Avatar"
+msgstr "Avatar"
+
+#@ gb-userlist
+#: gb-userlist.php:135
+msgid "List"
+msgstr "Liste"
+
+#@ gb-userlist
+#: gb-userlist.php:158
+msgid "You can modify template by editing the gb-userlsit.css file into the GB-UserList plugin directory"
+msgstr "Vous pouvez modifier le thème d'affichage en éditant le fichier gb-userlist.css qui se trouve dans le dossier du plugin GB-UserList."
+
+#@ gb-userlist
+#: gb-userlist.php:145
+msgid "Distinguish users by role"
+msgstr "Distinguer les utilisateurs selon leur rôle"
+
+#@ gb-userlist
+#: gb-userlist.php:147
+msgid "This option will use color code to ditinguish users by role. These colors must be defined into the CSS file gb-userlist.css by settings gbuserlsit-administrator, gbuserlist-author, gbuserlist-editor, gbuserlsit-contributor, gbuserlist-subscriber"
+msgstr "Cette option utilise des codes couleurs pour distinguer les utilisateurs selon leur rôle. Ces couleurs doivent-être définies dans le fichier CSS gb-userlist.css en configurant les paramètres gbuserlist-administrator, gb-userlistauthor, gb-userlist-editor, gb-userlist-contributor, gb-userlist-subscriber"
+
