@@ -3,7 +3,7 @@ Contributors: gbourgneuf
 Donate link: http://example.com/
 Tags: user, list, user list, sidebar, resgitered, profile
 Requires at least: 2.8
-Tested up to: 2.9
+Tested up to: 2.9.1
 Stable tag: 0.3
 
 Display list of your wordpress users into your sidebar. Display as list or using avatar's user. You could only display recent users or select users randomly. French translation include.
@@ -23,6 +23,9 @@ You could only display recent users or select users randomly.
 
 
 == Changelog ==
+
+= 0.3 =
+* Add possibility to display user name under avatar
 
 = 0.2 =
 * Add possibility to distinguish users by role (using color code)
